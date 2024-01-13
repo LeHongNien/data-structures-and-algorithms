@@ -1,20 +1,9 @@
-###### My notes for Data structures & Algorithms
+# Palindrome Checker
 
-# Data structures & Algorithms
+Palindrome definition: a word, phrase, or sequence that reads the same backwards as forwards, 
 
-## Basic data structures
+###### Examples
 
+single word palindrome -> madam 
 
-## Big O notation
-
-
-## Searching algorithms
-
-
-## Sorting algorithms
-
-
-## Graphs
-
-
-## Trees
+multi-word palindrome -> nurses run
