@@ -1,6 +1,8 @@
 # Palindrome Checker
 
-Palindrome definition: a word, phrase, or sequence that reads the same backwards as forwards, 
+Palindrome definition: a word, phrase, or sequence that reads the same backwards as forwards
+
+https://lehongnien.github.io/palindrome-check/
 
 ### Examples:
 
