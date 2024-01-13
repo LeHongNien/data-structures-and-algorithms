@@ -2,7 +2,7 @@
 
 Palindrome definition: a word, phrase, or sequence that reads the same backwards as forwards, 
 
-###### Examples
+##### Examples:
 
 single word palindrome -> madam 
 
