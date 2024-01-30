@@ -11,4 +11,4 @@ single word palindrome -> madam
 multi-word palindrome -> nurses run
 
 
-##### [FreeCodeCamp > JavaScript Algorithms and Data Structures > Certification Project #3]
+##### [FreeCodeCamp > JavaScript Algorithms and Data Structures > Certification Project #1]
